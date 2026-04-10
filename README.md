@@ -5,10 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mugishaj092/leetcode-solutions/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/mugishaj092/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/mugishaj092/leetcode-solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/mugishaj092/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/mugishaj092/leetcode-solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Queue
 |  |
@@ -40,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mugishaj092/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/mugishaj092/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
