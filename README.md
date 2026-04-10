@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/mugishaj092/leetcode-solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/mugishaj092/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0048-rotate-image](https://github.com/mugishaj092/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0189-rotate-array](https://github.com/mugishaj092/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/mugishaj092/leetcode-solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1122-relative-sort-array](https://github.com/mugishaj092/leetcode-solutions/tree/master/1122-relative-sort-array) |
 ## Binary Search
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/mugishaj092/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0189-rotate-array](https://github.com/mugishaj092/leetcode-solutions/tree/master/0189-rotate-array) |
 ## Matrix
 |  |
 | ------- |
@@ -65,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/mugishaj092/leetcode-solutions/tree/master/1122-relative-sort-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/mugishaj092/leetcode-solutions/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
