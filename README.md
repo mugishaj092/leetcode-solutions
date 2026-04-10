@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mugishaj092/leetcode-solutions/tree/master/0001-two-sum) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/mugishaj092/leetcode-solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Binary Search
 |  |
@@ -29,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/mugishaj092/leetcode-solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/mugishaj092/leetcode-solutions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
