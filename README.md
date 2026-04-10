@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/mugishaj092/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0048-rotate-image](https://github.com/mugishaj092/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/mugishaj092/leetcode-solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [1122-relative-sort-array](https://github.com/mugishaj092/leetcode-solutions/tree/master/1122-relative-sort-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/mugishaj092/leetcode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mugishaj092/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1122-relative-sort-array](https://github.com/mugishaj092/leetcode-solutions/tree/master/1122-relative-sort-array) |
 ## String
 |  |
 | ------- |
@@ -55,4 +57,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/mugishaj092/leetcode-solutions/tree/master/0048-rotate-image) |
+## Sorting
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/mugishaj092/leetcode-solutions/tree/master/1122-relative-sort-array) |
+## Counting Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/mugishaj092/leetcode-solutions/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
