@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mugishaj092/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/mugishaj092/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/mugishaj092/leetcode-solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Queue
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/mugishaj092/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/mugishaj092/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/mugishaj092/leetcode-solutions/tree/master/0189-rotate-array) |
 ## Matrix
 |  |
