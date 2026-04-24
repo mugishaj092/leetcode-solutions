@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/mugishaj092/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/mugishaj092/leetcode-solutions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/mugishaj092/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/mugishaj092/leetcode-solutions/tree/master/0189-rotate-array) |
 ## Matrix
 |  |
@@ -76,4 +77,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/mugishaj092/leetcode-solutions/tree/master/0189-rotate-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/mugishaj092/leetcode-solutions/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/mugishaj092/leetcode-solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
