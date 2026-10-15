@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/mugishaj092/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/mugishaj092/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/mugishaj092/leetcode-solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0892-surface-area-of-3d-shapes](https://github.com/mugishaj092/leetcode-solutions/tree/master/0892-surface-area-of-3d-shapes) |
 | [0904-fruit-into-baskets](https://github.com/mugishaj092/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [1122-relative-sort-array](https://github.com/mugishaj092/leetcode-solutions/tree/master/1122-relative-sort-array) |
 ## Binary Search
@@ -62,11 +63,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/mugishaj092/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/mugishaj092/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/mugishaj092/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0892-surface-area-of-3d-shapes](https://github.com/mugishaj092/leetcode-solutions/tree/master/0892-surface-area-of-3d-shapes) |
 | [2469-convert-the-temperature](https://github.com/mugishaj092/leetcode-solutions/tree/master/2469-convert-the-temperature) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/mugishaj092/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0892-surface-area-of-3d-shapes](https://github.com/mugishaj092/leetcode-solutions/tree/master/0892-surface-area-of-3d-shapes) |
 ## Sorting
 |  |
 | ------- |
@@ -87,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/mugishaj092/leetcode-solutions/tree/master/0070-climbing-stairs) |
+## Geometry
+|  |
+| ------- |
+| [0892-surface-area-of-3d-shapes](https://github.com/mugishaj092/leetcode-solutions/tree/master/0892-surface-area-of-3d-shapes) |
 <!---LeetCode Topics End-->
