@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/mugishaj092/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/mugishaj092/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0892-surface-area-of-3d-shapes](https://github.com/mugishaj092/leetcode-solutions/tree/master/0892-surface-area-of-3d-shapes) |
+| [2413-smallest-even-multiple](https://github.com/mugishaj092/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/mugishaj092/leetcode-solutions/tree/master/2469-convert-the-temperature) |
 ## Matrix
 |  |
@@ -94,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0892-surface-area-of-3d-shapes](https://github.com/mugishaj092/leetcode-solutions/tree/master/0892-surface-area-of-3d-shapes) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/mugishaj092/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
